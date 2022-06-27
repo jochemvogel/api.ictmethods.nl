@@ -11,6 +11,13 @@
 		],
 		"category": "extra",
 		"image": "https://ictresearchmethods.nl/images/thumb/e/ef/Joker.png/250px-Joker.png",
-		"slug": "joker"
+		"slug": "joker",
+		"phase": [
+			"problem definition",
+			"analysis",
+			"design",
+			"realisation",
+			"evaluation"
+		]
 	}
 ]

@@ -11,7 +11,8 @@
 		],
 		"category": "lab",
 		"image": "https://ictresearchmethods.nl/images/thumb/5/5b/A_B_testing.png/250px-A_B_testing.png",
-		"slug": "a-b-testing"
+		"slug": "a-b-testing",
+		"phase": ["realisation"]
 	},
 	{
 		"name": "Component test",
@@ -25,7 +26,8 @@
 		],
 		"category": "lab",
 		"image": "https://ictresearchmethods.nl/images/thumb/5/5e/Component_test.png/250px-Component_test.png",
-		"slug": "component-test"
+		"slug": "component-test",
+		"phase": ["realisation"]
 	},
 	{
 		"name": "Computer simulation",
@@ -40,7 +42,8 @@
 		],
 		"category": "lab",
 		"image": "https://ictresearchmethods.nl/images/thumb/e/e6/Computer_simulation.png/250px-Computer_simulation.png",
-		"slug": "computer-simulation"
+		"slug": "computer-simulation",
+		"phase": ["realisation"]
 	},
 	{
 		"name": "Data analytics",
@@ -55,7 +58,8 @@
 		],
 		"category": "lab",
 		"image": "https://ictresearchmethods.nl/images/thumb/e/ea/Data_analytics.png/250px-Data_analytics.png",
-		"slug": "data-analytics"
+		"slug": "data-analytics",
+		"phase": ["analysis", "design"]
 	},
 	{
 		"name": "Hardware validation",
@@ -69,7 +73,8 @@
 		],
 		"category": "lab",
 		"image": "https://ictresearchmethods.nl/images/thumb/f/fb/Hardware_validation.png/250px-Hardware_validation.png",
-		"slug": "hardware-validation"
+		"slug": "hardware-validation",
+		"phase": ["realisation"]
 	},
 	{
 		"name": "Non-functional test",
@@ -84,7 +89,8 @@
 		],
 		"category": "lab",
 		"image": "https://ictresearchmethods.nl/images/thumb/3/39/Non-functional_test.png/250px-Non-functional_test.png",
-		"slug": "non-functional-test"
+		"slug": "non-functional-test",
+		"phase": ["realisation"]
 	},
 	{
 		"name": "Security test",
@@ -98,7 +104,8 @@
 		],
 		"category": "lab",
 		"image": "https://ictresearchmethods.nl/images/thumb/7/70/Security_test.png/250px-Security_test.png",
-		"slug": "security-test"
+		"slug": "security-test",
+		"phase": ["realisation"]
 	},
 	{
 		"name": "System test",
@@ -114,7 +121,8 @@
 		],
 		"category": "lab",
 		"image": "https://ictresearchmethods.nl/images/thumb/0/00/System_test.png/250px-System_test.png",
-		"slug": "system-test"
+		"slug": "system-test",
+		"phase": ["realisation"]
 	},
 	{
 		"name": "Unit test",
@@ -130,7 +138,8 @@
 		],
 		"category": "lab",
 		"image": "https://ictresearchmethods.nl/images/thumb/5/52/Unit_test.png/250px-Unit_test.png",
-		"slug": "unit-test"
+		"slug": "unit-test",
+		"phase": ["realisation"]
 	},
 	{
 		"name": "Usability testing",
@@ -145,6 +154,7 @@
 		],
 		"category": "lab",
 		"image": "https://ictresearchmethods.nl/images/thumb/9/91/Usability_testing.png/250px-Usability_testing.png",
-		"slug": "usability-testing"
+		"slug": "usability-testing",
+		"phase": ["realisation"]
 	}
 ]

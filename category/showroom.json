@@ -11,7 +11,8 @@
 		],
 		"category": "showroom",
 		"image": "https://ictresearchmethods.nl/images/thumb/3/38/Benchmark_test.png/250px-Benchmark_test.png",
-		"slug": "benchmark-test"
+		"slug": "benchmark-test",
+		"phase": ["realisation"]
 	},
 	{
 		"name": "Ethical check",
@@ -25,7 +26,8 @@
 		],
 		"category": "showroom",
 		"image": "https://ictresearchmethods.nl/images/thumb/1/19/Ethical_check.png/250px-Ethical_check.png",
-		"slug": "ethical-check"
+		"slug": "ethical-check",
+		"phase": ["problem definition", "ethical check"]
 	},
 	{
 		"name": "Guideline conformity analysis",
@@ -39,7 +41,8 @@
 		],
 		"category": "showroom",
 		"image": "https://ictresearchmethods.nl/images/thumb/4/40/Guideline_conformity_analysis.png/250px-Guideline_conformity_analysis.png",
-		"slug": "guideline-conformity-analysis"
+		"slug": "guideline-conformity-analysis",
+		"phase": ["realisation"]
 	},
 	{
 		"name": "Peer review",
@@ -54,7 +57,8 @@
 		],
 		"category": "showroom",
 		"image": "https://ictresearchmethods.nl/images/thumb/f/f4/Peer_review.png/250px-Peer_review.png",
-		"slug": "peer-review"
+		"slug": "peer-review",
+		"phase": ["analysis", "design", "realisation"]
 	},
 	{
 		"name": "Pitch",
@@ -69,7 +73,14 @@
 		],
 		"category": "showroom",
 		"image": "https://ictresearchmethods.nl/images/thumb/5/58/Pitch.png/250px-Pitch.png",
-		"slug": "pitch"
+		"slug": "pitch",
+		"phase": [
+			"problem definition",
+			"analysis",
+			"design",
+			"realisation",
+			"evaluation"
+		]
 	},
 	{
 		"name": "Product review",
@@ -84,7 +95,8 @@
 		],
 		"category": "showroom",
 		"image": "https://ictresearchmethods.nl/images/thumb/0/04/Product_review.png/250px-Product_review.png",
-		"slug": "product-review"
+		"slug": "product-review",
+		"phase": ["realisation", "evaluation"]
 	},
 	{
 		"name": "Static program analysis",
@@ -98,6 +110,7 @@
 		],
 		"category": "showroom",
 		"image": "https://ictresearchmethods.nl/images/thumb/8/8c/Static_program_analysis.png/250px-Static_program_analysis.png",
-		"slug": "static-program-analysis"
+		"slug": "static-program-analysis",
+		"phase": ["realisation"]
 	}
 ]

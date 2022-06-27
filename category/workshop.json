@@ -11,7 +11,8 @@
 		],
 		"category": "workshop",
 		"image": "https://ictresearchmethods.nl/images/thumb/c/c1/Task_analysis.png/250px-Task_analysis.png",
-		"slug": "brainstorm"
+		"slug": "brainstorm",
+		"phase": ["problem definition", "analysis"]
 	},
 	{
 		"name": "Business case exploration",
@@ -26,7 +27,8 @@
 		],
 		"category": "workshop",
 		"image": "https://ictresearchmethods.nl/images/thumb/3/37/Business_case_exploration.png/250px-Business_case_exploration.png",
-		"slug": "business-case-exploration"
+		"slug": "business-case-exploration",
+		"phase": ["problem definition"]
 	},
 	{
 		"name": "Code review",
@@ -40,7 +42,8 @@
 		],
 		"category": "workshop",
 		"image": "https://ictresearchmethods.nl/images/thumb/a/a1/Code_review.png/250px-Code_review.png",
-		"slug": "code-review"
+		"slug": "code-review",
+		"phase": ["realisation"]
 	},
 	{
 		"name": "Decomposition",
@@ -55,7 +58,8 @@
 		],
 		"category": "workshop",
 		"image": "https://ictresearchmethods.nl/images/thumb/9/9e/Decomposition.png/250px-Decomposition.png",
-		"slug": "decomposition"
+		"slug": "decomposition",
+		"phase": ["design"]
 	},
 	{
 		"name": "Gap analysis",
@@ -69,7 +73,8 @@
 		],
 		"category": "workshop",
 		"image": "https://ictresearchmethods.nl/images/thumb/7/7c/Gap_analysis.png/250px-Gap_analysis.png",
-		"slug": "gap-analysis"
+		"slug": "gap-analysis",
+		"phase": ["analysis"]
 	},
 	{
 		"name": "IT architecture sketching",
@@ -84,7 +89,8 @@
 		],
 		"category": "workshop",
 		"image": "https://ictresearchmethods.nl/images/thumb/9/9e/IT_architecture_sketching.png/250px-IT_architecture_sketching.png",
-		"slug": "it-architecture-sketching"
+		"slug": "it-architecture-sketching",
+		"phase": ["design"]
 	},
 	{
 		"name": "Multi-criteria decision making",
@@ -100,7 +106,8 @@
 		],
 		"category": "workshop",
 		"image": "https://ictresearchmethods.nl/images/thumb/1/16/Multi-criteria_decision_making.png/250px-Multi-criteria_decision_making.png",
-		"slug": "multi-criteria-decision-making"
+		"slug": "multi-criteria-decision-making",
+		"phase": ["design"]
 	},
 	{
 		"name": "Prototyping",
@@ -114,7 +121,8 @@
 		],
 		"category": "workshop",
 		"image": "https://ictresearchmethods.nl/images/thumb/d/d2/Prototyping.png/250px-Prototyping.png",
-		"slug": "prototyping"
+		"slug": "prototyping",
+		"phase": ["design", "prototyping"]
 	},
 	{
 		"name": "Requirements prioritization",
@@ -128,7 +136,8 @@
 		],
 		"category": "workshop",
 		"image": "https://ictresearchmethods.nl/images/thumb/c/cd/Requirements_prioritization.png/250px-Requirements_prioritization.png",
-		"slug": "requirements-prioritization"
+		"slug": "requirements-prioritization",
+		"phase": ["analysis"]
 	},
 	{
 		"name": "Root cause analysis",
@@ -142,6 +151,7 @@
 		],
 		"category": "workshop",
 		"image": "https://ictresearchmethods.nl/images/thumb/7/7b/Root_cause_analysis.png/250px-Root_cause_analysis.png",
-		"slug": "root-cause-analysis"
+		"slug": "root-cause-analysis",
+		"phase": ["problem definition", "analysis"]
 	}
 ]

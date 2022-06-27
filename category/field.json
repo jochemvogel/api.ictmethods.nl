@@ -10,7 +10,8 @@
 		],
 		"category": "field",
 		"image": "https://ictresearchmethods.nl/images/1/11/Document_analysis.png",
-		"slug": "document-analysis"
+		"slug": "document-analysis",
+		"phase": ["problem definition", "analysis"]
 	},
 	{
 		"name": "Domain modelling",
@@ -23,7 +24,8 @@
 		],
 		"category": "field",
 		"image": "https://ictresearchmethods.nl/images/d/db/Domain_modelling.png",
-		"slug": "domain-modelling"
+		"slug": "domain-modelling",
+		"phase": ["analysis"]
 	},
 	{
 		"name": "Explore user requirements",
@@ -38,7 +40,8 @@
 		],
 		"category": "field",
 		"image": "https://ictresearchmethods.nl/images/thumb/8/8e/Explore_user_requirements.png/250px-Explore_user_requirements.png",
-		"slug": "explore-user-requirements"
+		"slug": "explore-user-requirements",
+		"phase": ["analysis"]
 	},
 	{
 		"name": "Focus group",
@@ -53,7 +56,8 @@
 		],
 		"category": "field",
 		"image": "https://ictresearchmethods.nl/images/thumb/6/6f/Focus_group.png/250px-Focus_group.png",
-		"slug": "focus-group"
+		"slug": "focus-group",
+		"phase": ["analysis"]
 	},
 	{
 		"name": "Observation",
@@ -68,7 +72,8 @@
 		],
 		"category": "field",
 		"image": "https://ictresearchmethods.nl/images/thumb/6/64/Observation.png/250px-Observation.png",
-		"slug": "observation"
+		"slug": "observation",
+		"phase": ["problem definition", "analysis"]
 	},
 	{
 		"name": "Problem analysis",
@@ -82,7 +87,8 @@
 		],
 		"category": "field",
 		"image": "https://ictresearchmethods.nl/images/thumb/4/4f/Problem_analysis.png/250px-Problem_analysis.png",
-		"slug": "problem-analysis"
+		"slug": "problem-analysis",
+		"phase": ["problem definition"]
 	},
 	{
 		"name": "Stakeholder analysis",
@@ -97,7 +103,8 @@
 		],
 		"category": "field",
 		"image": "https://ictresearchmethods.nl/images/thumb/b/b9/Stakeholder_analysis.png/250px-Stakeholder_analysis.png",
-		"slug": "stakeholder-analysis"
+		"slug": "stakeholder-analysis",
+		"phase": ["problem definition", "analysis"]
 	},
 	{
 		"name": "Survey",
@@ -112,7 +119,8 @@
 		],
 		"category": "field",
 		"image": "https://ictresearchmethods.nl/images/thumb/1/1c/Survey.png/250px-Survey.png",
-		"slug": "survey"
+		"slug": "survey",
+		"phase": ["problem definition", "analysis"]
 	},
 	{
 		"name": "Task analysis",
@@ -126,6 +134,7 @@
 		],
 		"category": "field",
 		"image": "https://ictresearchmethods.nl/images/thumb/c/c1/Task_analysis.png/250px-Task_analysis.png",
-		"slug": "task-analysis"
+		"slug": "task-analysis",
+		"phase": ["analysis"]
 	}
 ]
