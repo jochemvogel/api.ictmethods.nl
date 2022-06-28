@@ -88,7 +88,8 @@
 		],
 		"category": "library",
 		"image": "https://ictresearchmethods.nl/images/4/4f/Expert_interview.png",
-		"slug": "expert-interview"
+		"slug": "expert-interview",
+		"phase": ["analysis"]
 	},
 	{
 		"name": "Literature study",
