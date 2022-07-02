@@ -10,9 +10,8 @@
 			"An anything goes mindset: bad ideas also count as a contribution."
 		],
 		"category": "workshop",
-		"image": "https://ictresearchmethods.nl/images/thumb/c/c1/Task_analysis.png/250px-Task_analysis.png",
 		"slug": "brainstorm",
-		"phase": ["problem definition", "analysis"]
+		"phases": ["problem definition", "analysis"]
 	},
 	{
 		"name": "Business case exploration",
@@ -26,9 +25,8 @@
 			"Use a tool or template like Business Model Canvas."
 		],
 		"category": "workshop",
-		"image": "https://ictresearchmethods.nl/images/thumb/3/37/Business_case_exploration.png/250px-Business_case_exploration.png",
 		"slug": "business-case-exploration",
-		"phase": ["problem definition"]
+		"phases": ["problem definition"]
 	},
 	{
 		"name": "Code review",
@@ -41,9 +39,8 @@
 			"Code standards, a code style guide, checklists, etc."
 		],
 		"category": "workshop",
-		"image": "https://ictresearchmethods.nl/images/thumb/a/a1/Code_review.png/250px-Code_review.png",
 		"slug": "code-review",
-		"phase": ["realisation"]
+		"phases": ["realisation"]
 	},
 	{
 		"name": "Decomposition",
@@ -57,9 +54,8 @@
 			"Knowledge of the end system and what changes are expected in the future (variation points)."
 		],
 		"category": "workshop",
-		"image": "https://ictresearchmethods.nl/images/thumb/9/9e/Decomposition.png/250px-Decomposition.png",
 		"slug": "decomposition",
-		"phase": ["design"]
+		"phases": ["design"]
 	},
 	{
 		"name": "Gap analysis",
@@ -72,9 +68,8 @@
 			"A representation of the design gap."
 		],
 		"category": "workshop",
-		"image": "https://ictresearchmethods.nl/images/thumb/7/7c/Gap_analysis.png/250px-Gap_analysis.png",
 		"slug": "gap-analysis",
-		"phase": ["analysis"]
+		"phases": ["analysis"]
 	},
 	{
 		"name": "IT architecture sketching",
@@ -88,14 +83,13 @@
 			"A camera to photograph the resulting sketch to detail later."
 		],
 		"category": "workshop",
-		"image": "https://ictresearchmethods.nl/images/thumb/9/9e/IT_architecture_sketching.png/250px-IT_architecture_sketching.png",
 		"slug": "it-architecture-sketching",
-		"phase": ["design"]
+		"phases": ["design"]
 	},
 	{
 		"name": "Multi-criteria decision making",
 		"why": "Improve the quality of complex decisions",
-		"how": "Most decision-making models distinguish many phases. In general, you will have a preparation phase to investigate the different alternatives, the criteria and their weight. Also involve the relevant stakeholders. After that, the criteria can be evaluated per option, leading to the favourite option being chosen.",
+		"how": "Most decision-making models distinguish many phasess. In general, you will have a preparation phases to investigate the different alternatives, the criteria and their weight. Also involve the relevant stakeholders. After that, the criteria can be evaluated per option, leading to the favourite option being chosen.",
 		"practice": "Almost all IT projects involve complex decisions. In methods like Scrum and lean, the decisions are postponed as late as possible to have more information for making the right decision or to change a decision if it does not work.",
 		"ingredients": [
 			"Time to iterate between judging options and adjusting criteria.",
@@ -105,9 +99,8 @@
 			"A technique for weighting criteria against options like a ‘decision tree’."
 		],
 		"category": "workshop",
-		"image": "https://ictresearchmethods.nl/images/thumb/1/16/Multi-criteria_decision_making.png/250px-Multi-criteria_decision_making.png",
 		"slug": "multi-criteria-decision-making",
-		"phase": ["design"]
+		"phases": ["design"]
 	},
 	{
 		"name": "Prototyping",
@@ -120,9 +113,8 @@
 			"A clear view of what you would like to learn from your prototype."
 		],
 		"category": "workshop",
-		"image": "https://ictresearchmethods.nl/images/thumb/d/d2/Prototyping.png/250px-Prototyping.png",
 		"slug": "prototyping",
-		"phase": ["design", "prototyping"]
+		"phases": ["design", "prototyping"]
 	},
 	{
 		"name": "Requirements prioritization",
@@ -135,9 +127,8 @@
 			"A way to indicate priorities (e.g. MoSCoW or a backlog)."
 		],
 		"category": "workshop",
-		"image": "https://ictresearchmethods.nl/images/thumb/c/cd/Requirements_prioritization.png/250px-Requirements_prioritization.png",
 		"slug": "requirements-prioritization",
-		"phase": ["analysis"]
+		"phases": ["analysis"]
 	},
 	{
 		"name": "Root cause analysis",
@@ -150,8 +141,7 @@
 			"A diverse group of knowledge holders to help (e.g. security, software, business, user perspective)."
 		],
 		"category": "workshop",
-		"image": "https://ictresearchmethods.nl/images/thumb/7/7b/Root_cause_analysis.png/250px-Root_cause_analysis.png",
 		"slug": "root-cause-analysis",
-		"phase": ["problem definition", "analysis"]
+		"phases": ["problem definition", "analysis"]
 	}
 ]

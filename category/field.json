@@ -9,9 +9,8 @@
 			"Someone with experience in using or developing similar products (could be yourself)."
 		],
 		"category": "field",
-		"image": "https://ictresearchmethods.nl/images/1/11/Document_analysis.png",
 		"slug": "document-analysis",
-		"phase": ["problem definition", "analysis"]
+		"phases": ["problem definition", "analysis"]
 	},
 	{
 		"name": "Domain modelling",
@@ -23,9 +22,8 @@
 			"A sense of scope: which reported practices are important to you, and which are not?"
 		],
 		"category": "field",
-		"image": "https://ictresearchmethods.nl/images/d/db/Domain_modelling.png",
 		"slug": "domain-modelling",
-		"phase": ["analysis"]
+		"phases": ["analysis"]
 	},
 	{
 		"name": "Explore user requirements",
@@ -39,9 +37,8 @@
 			"Use the stakeholders’ ‘language’ so they can review the described scenarios."
 		],
 		"category": "field",
-		"image": "https://ictresearchmethods.nl/images/thumb/8/8e/Explore_user_requirements.png/250px-Explore_user_requirements.png",
 		"slug": "explore-user-requirements",
-		"phase": ["analysis"]
+		"phases": ["analysis"]
 	},
 	{
 		"name": "Focus group",
@@ -55,9 +52,8 @@
 			"Group management skills."
 		],
 		"category": "field",
-		"image": "https://ictresearchmethods.nl/images/thumb/6/6f/Focus_group.png/250px-Focus_group.png",
 		"slug": "focus-group",
-		"phase": ["analysis"]
+		"phases": ["analysis"]
 	},
 	{
 		"name": "Observation",
@@ -71,9 +67,8 @@
 			"A willingness to stick to the observed facts and delay interpretation."
 		],
 		"category": "field",
-		"image": "https://ictresearchmethods.nl/images/thumb/6/64/Observation.png/250px-Observation.png",
 		"slug": "observation",
-		"phase": ["problem definition", "analysis"]
+		"phases": ["problem definition", "analysis"]
 	},
 	{
 		"name": "Problem analysis",
@@ -86,9 +81,8 @@
 			"A willingness to get to the core of the problem (i.e. the problem behind the problem) by asking lots of questions and making assumptions explicit."
 		],
 		"category": "field",
-		"image": "https://ictresearchmethods.nl/images/thumb/4/4f/Problem_analysis.png/250px-Problem_analysis.png",
 		"slug": "problem-analysis",
-		"phase": ["problem definition"]
+		"phases": ["problem definition"]
 	},
 	{
 		"name": "Stakeholder analysis",
@@ -102,9 +96,8 @@
 			"A tool like a stakeholder map or power interest matrix."
 		],
 		"category": "field",
-		"image": "https://ictresearchmethods.nl/images/thumb/b/b9/Stakeholder_analysis.png/250px-Stakeholder_analysis.png",
 		"slug": "stakeholder-analysis",
-		"phase": ["problem definition", "analysis"]
+		"phases": ["problem definition", "analysis"]
 	},
 	{
 		"name": "Survey",
@@ -118,9 +111,8 @@
 			"Someone to proofread or test your questionnaire."
 		],
 		"category": "field",
-		"image": "https://ictresearchmethods.nl/images/thumb/1/1c/Survey.png/250px-Survey.png",
 		"slug": "survey",
-		"phase": ["problem definition", "analysis"]
+		"phases": ["problem definition", "analysis"]
 	},
 	{
 		"name": "Task analysis",
@@ -133,8 +125,7 @@
 			"Knowledge of models to store and analyse the tasks."
 		],
 		"category": "field",
-		"image": "https://ictresearchmethods.nl/images/thumb/c/c1/Task_analysis.png/250px-Task_analysis.png",
 		"slug": "task-analysis",
-		"phase": ["analysis"]
+		"phases": ["analysis"]
 	}
 ]

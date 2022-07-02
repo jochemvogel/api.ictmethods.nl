@@ -10,9 +10,8 @@
 			"The willingness to aim for ‘yes, this is it’ instead of ‘yes, this will do’."
 		],
 		"category": "extra",
-		"image": "https://ictresearchmethods.nl/images/thumb/e/ef/Joker.png/250px-Joker.png",
 		"slug": "joker",
-		"phase": [
+		"phases": [
 			"problem definition",
 			"analysis",
 			"design",

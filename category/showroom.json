@@ -10,9 +10,8 @@
 			"A way to evaluate your test results."
 		],
 		"category": "showroom",
-		"image": "https://ictresearchmethods.nl/images/thumb/3/38/Benchmark_test.png/250px-Benchmark_test.png",
 		"slug": "benchmark-test",
-		"phase": ["realisation"]
+		"phases": ["realisation"]
 	},
 	{
 		"name": "Ethical check",
@@ -25,9 +24,8 @@
 			"An ethical dilemma solving strategy (e.g. black-and-white decision strategy or whistleblowing)."
 		],
 		"category": "showroom",
-		"image": "https://ictresearchmethods.nl/images/thumb/1/19/Ethical_check.png/250px-Ethical_check.png",
 		"slug": "ethical-check",
-		"phase": ["problem definition", "ethical check"]
+		"phases": ["problem definition", "ethical check"]
 	},
 	{
 		"name": "Guideline conformity analysis",
@@ -40,9 +38,8 @@
 			"Involvement of an accredited standardisation institute, if needed."
 		],
 		"category": "showroom",
-		"image": "https://ictresearchmethods.nl/images/thumb/4/40/Guideline_conformity_analysis.png/250px-Guideline_conformity_analysis.png",
 		"slug": "guideline-conformity-analysis",
-		"phase": ["realisation"]
+		"phases": ["realisation"]
 	},
 	{
 		"name": "Peer review",
@@ -56,9 +53,8 @@
 			"A laptop to make notes of your own observations and conclusions."
 		],
 		"category": "showroom",
-		"image": "https://ictresearchmethods.nl/images/thumb/f/f4/Peer_review.png/250px-Peer_review.png",
 		"slug": "peer-review",
-		"phase": ["analysis", "design", "realisation"]
+		"phases": ["analysis", "design", "realisation"]
 	},
 	{
 		"name": "Pitch",
@@ -72,9 +68,8 @@
 			"A willingness to improve and change."
 		],
 		"category": "showroom",
-		"image": "https://ictresearchmethods.nl/images/thumb/5/58/Pitch.png/250px-Pitch.png",
 		"slug": "pitch",
-		"phase": [
+		"phases": [
 			"problem definition",
 			"analysis",
 			"design",
@@ -94,9 +89,8 @@
 			"The list of product requirements."
 		],
 		"category": "showroom",
-		"image": "https://ictresearchmethods.nl/images/thumb/0/04/Product_review.png/250px-Product_review.png",
 		"slug": "product-review",
-		"phase": ["realisation", "evaluation"]
+		"phases": ["realisation", "evaluation"]
 	},
 	{
 		"name": "Static program analysis",
@@ -109,8 +103,7 @@
 			"Attention to details that can make your code futureproof."
 		],
 		"category": "showroom",
-		"image": "https://ictresearchmethods.nl/images/thumb/8/8c/Static_program_analysis.png/250px-Static_program_analysis.png",
 		"slug": "static-program-analysis",
-		"phase": ["realisation"]
+		"phases": ["realisation"]
 	}
 ]

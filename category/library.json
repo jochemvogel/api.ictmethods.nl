@@ -9,9 +9,8 @@
 			"Someone with experience in using or developing similar products (could be yourself)."
 		],
 		"category": "library",
-		"image": "https://ictresearchmethods.nl/images/a/a3/Available_product_analysis.png",
 		"slug": "available-product-analysis",
-		"phase": ["problem definition"]
+		"phases": ["problem definition"]
 	},
 	{
 		"name": "Best good and bad practices",
@@ -23,9 +22,8 @@
 			"A sense of scope: which reported practices are important to you, and which are not?"
 		],
 		"category": "library",
-		"image": "https://ictresearchmethods.nl/images/f/f0/Best_good_and_bad_practices.png",
 		"slug": "best-good-and-bad-practices",
-		"phase": ["problem definition", "analysis"]
+		"phases": ["problem definition", "analysis"]
 	},
 	{
 		"name": "Community research",
@@ -39,9 +37,8 @@
 			"A sharing attitude: do not hesitate to share your findings with the community."
 		],
 		"category": "library",
-		"image": "https://ictresearchmethods.nl/images/2/28/Community_research.png",
 		"slug": "community-research",
-		"phase": ["analysis", "design", "realisation"]
+		"phases": ["analysis", "design", "realisation"]
 	},
 	{
 		"name": "Competitive analysis",
@@ -55,9 +52,8 @@
 			"Clarity about what your users want in addition to your competitors’ offerings."
 		],
 		"category": "library",
-		"image": "https://ictresearchmethods.nl/images/e/e3/Competitive_analysis.png",
 		"slug": "competitive-analysis",
-		"phase": ["analysis"]
+		"phases": ["analysis"]
 	},
 	{
 		"name": "Design pattern research",
@@ -70,9 +66,8 @@
 			"A willingness to improve the quality of the designed software."
 		],
 		"category": "library",
-		"image": "https://ictresearchmethods.nl/images/e/ee/Design_pattern_research.png",
 		"slug": "design-pattern-research",
-		"phase": ["design", "realisation"]
+		"phases": ["design", "realisation"]
 	},
 	{
 		"name": "Expert interview",
@@ -87,9 +82,8 @@
 			"Interviewing techniques."
 		],
 		"category": "library",
-		"image": "https://ictresearchmethods.nl/images/4/4f/Expert_interview.png",
 		"slug": "expert-interview",
-		"phase": ["analysis"]
+		"phases": ["analysis"]
 	},
 	{
 		"name": "Literature study",
@@ -104,23 +98,21 @@
 			"Knowing when to stop."
 		],
 		"category": "library",
-		"image": "https://ictresearchmethods.nl/images/4/4c/Literature_study.png",
 		"slug": "literature-study",
-		"phase": ["problem definition", "analysis", "design", "realistation"]
+		"phases": ["problem definition", "analysis", "design", "realistation"]
 	},
 	{
 		"name": "SWOT analysis",
 		"why": "A SWOT analysis supports decision makers in identifying relevant factors for achieving certain goals.",
 		"how": "The project team identifies several Strengths, Weaknesses, Opportunities and Threats related to a project. The results are typically presented in a 2 x 2 matrix. You need to understand the community that a particular organisation is working with; this can be done via public forums, listening campaigns or informational interviews.",
-		"practice": "A SWOT analysis is typically used as a strategic tool in an early phase of a project, after the outline of the project is developed. The SWOT is often a basis for a go–no go decision.",
+		"practice": "A SWOT analysis is typically used as a strategic tool in an early phases of a project, after the outline of the project is developed. The SWOT is often a basis for a go–no go decision.",
 		"ingredients": [
 			"Basic knowledge about the project plans.",
 			"A sense of who the competition is..",
 			"Critical colleagues to review and update your initial SWOT."
 		],
 		"category": "library",
-		"image": "https://ictresearchmethods.nl/images/c/c3/SWOT_analysis.png",
 		"slug": "swot-analysis",
-		"phase": ["analysis"]
+		"phases": ["analysis"]
 	}
 ]

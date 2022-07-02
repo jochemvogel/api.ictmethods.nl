@@ -10,9 +10,8 @@
 				"Someone with experience in using or developing similar products (could be yourself)."
 			],
 			"category": "library",
-			"image": "https://ictresearchmethods.nl/images/a/a3/Available_product_analysis.png",
 			"slug": "available-product-analysis",
-			"phase": ["problem definition"]
+			"phases": ["problem definition"]
 		},
 		{
 			"name": "Best good and bad practices",
@@ -24,9 +23,8 @@
 				"A sense of scope: which reported practices are important to you, and which are not?"
 			],
 			"category": "library",
-			"image": "https://ictresearchmethods.nl/images/f/f0/Best_good_and_bad_practices.png",
 			"slug": "best-good-and-bad-practices",
-			"phase": ["problem definition", "analysis"]
+			"phases": ["problem definition", "analysis"]
 		},
 		{
 			"name": "Community research",
@@ -40,9 +38,8 @@
 				"A sharing attitude: do not hesitate to share your findings with the community."
 			],
 			"category": "library",
-			"image": "https://ictresearchmethods.nl/images/2/28/Community_research.png",
 			"slug": "community-research",
-			"phase": ["analysis", "design", "realisation"]
+			"phases": ["analysis", "design", "realisation"]
 		},
 		{
 			"name": "Competitive analysis",
@@ -56,9 +53,8 @@
 				"Clarity about what your users want in addition to your competitors’ offerings."
 			],
 			"category": "library",
-			"image": "https://ictresearchmethods.nl/images/e/e3/Competitive_analysis.png",
 			"slug": "competitive-analysis",
-			"phase": ["analysis"]
+			"phases": ["analysis"]
 		},
 		{
 			"name": "Design pattern research",
@@ -71,9 +67,8 @@
 				"A willingness to improve the quality of the designed software."
 			],
 			"category": "library",
-			"image": "https://ictresearchmethods.nl/images/e/ee/Design_pattern_research.png",
 			"slug": "design-pattern-research",
-			"phase": ["design", "realisation"]
+			"phases": ["design", "realisation"]
 		},
 		{
 			"name": "Expert interview",
@@ -88,9 +83,8 @@
 				"Interviewing techniques."
 			],
 			"category": "library",
-			"image": "https://ictresearchmethods.nl/images/4/4f/Expert_interview.png",
 			"slug": "expert-interview",
-			"phase": ["analysis"]
+			"phases": ["analysis"]
 		},
 		{
 			"name": "Literature study",
@@ -105,24 +99,22 @@
 				"Knowing when to stop."
 			],
 			"category": "library",
-			"image": "https://ictresearchmethods.nl/images/4/4c/Literature_study.png",
 			"slug": "literature-study",
-			"phase": ["problem definition", "analysis", "design", "realistation"]
+			"phases": ["problem definition", "analysis", "design", "realistation"]
 		},
 		{
 			"name": "SWOT analysis",
 			"why": "A SWOT analysis supports decision makers in identifying relevant factors for achieving certain goals.",
 			"how": "The project team identifies several Strengths, Weaknesses, Opportunities and Threats related to a project. The results are typically presented in a 2 x 2 matrix. You need to understand the community that a particular organisation is working with; this can be done via public forums, listening campaigns or informational interviews.",
-			"practice": "A SWOT analysis is typically used as a strategic tool in an early phase of a project, after the outline of the project is developed. The SWOT is often a basis for a go–no go decision.",
+			"practice": "A SWOT analysis is typically used as a strategic tool in an early phases of a project, after the outline of the project is developed. The SWOT is often a basis for a go–no go decision.",
 			"ingredients": [
 				"Basic knowledge about the project plans.",
 				"A sense of who the competition is..",
 				"Critical colleagues to review and update your initial SWOT."
 			],
 			"category": "library",
-			"image": "https://ictresearchmethods.nl/images/c/c3/SWOT_analysis.png",
 			"slug": "swot-analysis",
-			"phase": ["analysis"]
+			"phases": ["analysis"]
 		},
 		{
 			"name": "Document analysis",
@@ -134,9 +126,8 @@
 				"Someone with experience in using or developing similar products (could be yourself)."
 			],
 			"category": "field",
-			"image": "https://ictresearchmethods.nl/images/1/11/Document_analysis.png",
 			"slug": "document-analysis",
-			"phase": ["problem definition", "analysis"]
+			"phases": ["problem definition", "analysis"]
 		},
 		{
 			"name": "Domain modelling",
@@ -148,9 +139,8 @@
 				"A sense of scope: which reported practices are important to you, and which are not?"
 			],
 			"category": "field",
-			"image": "https://ictresearchmethods.nl/images/d/db/Domain_modelling.png",
 			"slug": "domain-modelling",
-			"phase": ["analysis"]
+			"phases": ["analysis"]
 		},
 		{
 			"name": "Explore user requirements",
@@ -164,9 +154,8 @@
 				"Use the stakeholders’ ‘language’ so they can review the described scenarios."
 			],
 			"category": "field",
-			"image": "https://ictresearchmethods.nl/images/thumb/8/8e/Explore_user_requirements.png/250px-Explore_user_requirements.png",
 			"slug": "explore-user-requirements",
-			"phase": ["analysis"]
+			"phases": ["analysis"]
 		},
 		{
 			"name": "Focus group",
@@ -180,9 +169,8 @@
 				"Group management skills."
 			],
 			"category": "field",
-			"image": "https://ictresearchmethods.nl/images/thumb/6/6f/Focus_group.png/250px-Focus_group.png",
 			"slug": "focus-group",
-			"phase": ["analysis"]
+			"phases": ["analysis"]
 		},
 		{
 			"name": "Observation",
@@ -196,9 +184,8 @@
 				"A willingness to stick to the observed facts and delay interpretation."
 			],
 			"category": "field",
-			"image": "https://ictresearchmethods.nl/images/thumb/6/64/Observation.png/250px-Observation.png",
 			"slug": "observation",
-			"phase": ["problem definition", "analysis"]
+			"phases": ["problem definition", "analysis"]
 		},
 		{
 			"name": "Problem analysis",
@@ -211,9 +198,8 @@
 				"A willingness to get to the core of the problem (i.e. the problem behind the problem) by asking lots of questions and making assumptions explicit."
 			],
 			"category": "field",
-			"image": "https://ictresearchmethods.nl/images/thumb/4/4f/Problem_analysis.png/250px-Problem_analysis.png",
 			"slug": "problem-analysis",
-			"phase": ["problem definition"]
+			"phases": ["problem definition"]
 		},
 		{
 			"name": "Stakeholder analysis",
@@ -227,9 +213,8 @@
 				"A tool like a stakeholder map or power interest matrix."
 			],
 			"category": "field",
-			"image": "https://ictresearchmethods.nl/images/thumb/b/b9/Stakeholder_analysis.png/250px-Stakeholder_analysis.png",
 			"slug": "stakeholder-analysis",
-			"phase": ["problem definition", "analysis"]
+			"phases": ["problem definition", "analysis"]
 		},
 		{
 			"name": "Survey",
@@ -243,9 +228,8 @@
 				"Someone to proofread or test your questionnaire."
 			],
 			"category": "field",
-			"image": "https://ictresearchmethods.nl/images/thumb/1/1c/Survey.png/250px-Survey.png",
 			"slug": "survey",
-			"phase": ["problem definition", "analysis"]
+			"phases": ["problem definition", "analysis"]
 		},
 		{
 			"name": "Task analysis",
@@ -258,9 +242,8 @@
 				"Knowledge of models to store and analyse the tasks."
 			],
 			"category": "field",
-			"image": "https://ictresearchmethods.nl/images/thumb/c/c1/Task_analysis.png/250px-Task_analysis.png",
 			"slug": "task-analysis",
-			"phase": ["analysis"]
+			"phases": ["analysis"]
 		},
 		{
 			"name": "A/B testing",
@@ -273,9 +256,8 @@
 				"A large number of users."
 			],
 			"category": "lab",
-			"image": "https://ictresearchmethods.nl/images/thumb/5/5b/A_B_testing.png/250px-A_B_testing.png",
 			"slug": "a-b-testing",
-			"phase": ["realisation"]
+			"phases": ["realisation"]
 		},
 		{
 			"name": "Component test",
@@ -288,9 +270,8 @@
 				"Drivers and stubs to simulate the behaviour of other components."
 			],
 			"category": "lab",
-			"image": "https://ictresearchmethods.nl/images/thumb/5/5e/Component_test.png/250px-Component_test.png",
 			"slug": "component-test",
-			"phase": ["realisation"]
+			"phases": ["realisation"]
 		},
 		{
 			"name": "Computer simulation",
@@ -304,9 +285,8 @@
 				"An evaluation of the simulation (i.e. does it work according to the intended model?)."
 			],
 			"category": "lab",
-			"image": "https://ictresearchmethods.nl/images/thumb/e/e6/Computer_simulation.png/250px-Computer_simulation.png",
 			"slug": "computer-simulation",
-			"phase": ["realisation"]
+			"phases": ["realisation"]
 		},
 		{
 			"name": "Data analytics",
@@ -320,9 +300,8 @@
 				"Comprehensive data visualisations"
 			],
 			"category": "lab",
-			"image": "https://ictresearchmethods.nl/images/thumb/e/ea/Data_analytics.png/250px-Data_analytics.png",
 			"slug": "data-analytics",
-			"phase": ["analysis", "design"]
+			"phases": ["analysis", "design"]
 		},
 		{
 			"name": "Hardware validation",
@@ -335,9 +314,8 @@
 				"A way to determine the ‘ground truth’ or desired behaviour."
 			],
 			"category": "lab",
-			"image": "https://ictresearchmethods.nl/images/thumb/f/fb/Hardware_validation.png/250px-Hardware_validation.png",
 			"slug": "hardware-validation",
-			"phase": ["realisation"]
+			"phases": ["realisation"]
 		},
 		{
 			"name": "Non-functional test",
@@ -351,9 +329,8 @@
 				"A good idea about capacity, scalability and elasticity needs."
 			],
 			"category": "lab",
-			"image": "https://ictresearchmethods.nl/images/thumb/3/39/Non-functional_test.png/250px-Non-functional_test.png",
 			"slug": "non-functional-test",
-			"phase": ["realisation"]
+			"phases": ["realisation"]
 		},
 		{
 			"name": "Security test",
@@ -366,9 +343,8 @@
 				"A focus on intentional threats and threat actors."
 			],
 			"category": "lab",
-			"image": "https://ictresearchmethods.nl/images/thumb/7/70/Security_test.png/250px-Security_test.png",
 			"slug": "security-test",
-			"phase": ["realisation"]
+			"phases": ["realisation"]
 		},
 		{
 			"name": "System test",
@@ -383,9 +359,8 @@
 				"A test framework (for automated testing)."
 			],
 			"category": "lab",
-			"image": "https://ictresearchmethods.nl/images/thumb/0/00/System_test.png/250px-System_test.png",
 			"slug": "system-test",
-			"phase": ["realisation"]
+			"phases": ["realisation"]
 		},
 		{
 			"name": "Unit test",
@@ -400,9 +375,8 @@
 				"An upfront definition of the code coverage target for each part of the code."
 			],
 			"category": "lab",
-			"image": "https://ictresearchmethods.nl/images/thumb/5/52/Unit_test.png/250px-Unit_test.png",
 			"slug": "unit-test",
-			"phase": ["realisation"]
+			"phases": ["realisation"]
 		},
 		{
 			"name": "Usability testing",
@@ -416,9 +390,8 @@
 				"Video or audio recording equipment."
 			],
 			"category": "lab",
-			"image": "https://ictresearchmethods.nl/images/thumb/9/91/Usability_testing.png/250px-Usability_testing.png",
 			"slug": "usability-testing",
-			"phase": ["realisation"]
+			"phases": ["realisation"]
 		},
 		{
 			"name": "Benchmark test",
@@ -431,9 +404,8 @@
 				"A way to evaluate your test results."
 			],
 			"category": "showroom",
-			"image": "https://ictresearchmethods.nl/images/thumb/3/38/Benchmark_test.png/250px-Benchmark_test.png",
 			"slug": "benchmark-test",
-			"phase": ["realisation"]
+			"phases": ["realisation"]
 		},
 		{
 			"name": "Ethical check",
@@ -446,9 +418,8 @@
 				"An ethical dilemma solving strategy (e.g. black-and-white decision strategy or whistleblowing)."
 			],
 			"category": "showroom",
-			"image": "https://ictresearchmethods.nl/images/thumb/1/19/Ethical_check.png/250px-Ethical_check.png",
 			"slug": "ethical-check",
-			"phase": ["problem definition", "ethical check"]
+			"phases": ["problem definition", "ethical check"]
 		},
 		{
 			"name": "Guideline conformity analysis",
@@ -461,9 +432,8 @@
 				"Involvement of an accredited standardisation institute, if needed."
 			],
 			"category": "showroom",
-			"image": "https://ictresearchmethods.nl/images/thumb/4/40/Guideline_conformity_analysis.png/250px-Guideline_conformity_analysis.png",
 			"slug": "guideline-conformity-analysis",
-			"phase": ["realisation"]
+			"phases": ["realisation"]
 		},
 		{
 			"name": "Peer review",
@@ -477,9 +447,8 @@
 				"A laptop to make notes of your own observations and conclusions."
 			],
 			"category": "showroom",
-			"image": "https://ictresearchmethods.nl/images/thumb/f/f4/Peer_review.png/250px-Peer_review.png",
 			"slug": "peer-review",
-			"phase": ["analysis", "design", "realisation"]
+			"phases": ["analysis", "design", "realisation"]
 		},
 		{
 			"name": "Pitch",
@@ -493,9 +462,8 @@
 				"A willingness to improve and change."
 			],
 			"category": "showroom",
-			"image": "https://ictresearchmethods.nl/images/thumb/5/58/Pitch.png/250px-Pitch.png",
 			"slug": "pitch",
-			"phase": [
+			"phases": [
 				"problem definition",
 				"analysis",
 				"design",
@@ -515,9 +483,8 @@
 				"The list of product requirements."
 			],
 			"category": "showroom",
-			"image": "https://ictresearchmethods.nl/images/thumb/0/04/Product_review.png/250px-Product_review.png",
 			"slug": "product-review",
-			"phase": ["realisation", "evaluation"]
+			"phases": ["realisation", "evaluation"]
 		},
 		{
 			"name": "Static program analysis",
@@ -530,9 +497,8 @@
 				"Attention to details that can make your code futureproof."
 			],
 			"category": "showroom",
-			"image": "https://ictresearchmethods.nl/images/thumb/8/8c/Static_program_analysis.png/250px-Static_program_analysis.png",
 			"slug": "static-program-analysis",
-			"phase": ["realisation"]
+			"phases": ["realisation"]
 		},
 		{
 			"name": "Brainstorm",
@@ -545,9 +511,8 @@
 				"An anything goes mindset: bad ideas also count as a contribution."
 			],
 			"category": "workshop",
-			"image": "https://ictresearchmethods.nl/images/thumb/c/c1/Task_analysis.png/250px-Task_analysis.png",
 			"slug": "brainstorm",
-			"phase": ["problem definition", "analysis"]
+			"phases": ["problem definition", "analysis"]
 		},
 		{
 			"name": "Business case exploration",
@@ -561,9 +526,8 @@
 				"Use a tool or template like Business Model Canvas."
 			],
 			"category": "workshop",
-			"image": "https://ictresearchmethods.nl/images/thumb/3/37/Business_case_exploration.png/250px-Business_case_exploration.png",
 			"slug": "business-case-exploration",
-			"phase": ["problem definition"]
+			"phases": ["problem definition"]
 		},
 		{
 			"name": "Code review",
@@ -576,9 +540,8 @@
 				"Code standards, a code style guide, checklists, etc."
 			],
 			"category": "workshop",
-			"image": "https://ictresearchmethods.nl/images/thumb/a/a1/Code_review.png/250px-Code_review.png",
 			"slug": "code-review",
-			"phase": ["realisation"]
+			"phases": ["realisation"]
 		},
 		{
 			"name": "Decomposition",
@@ -592,9 +555,8 @@
 				"Knowledge of the end system and what changes are expected in the future (variation points)."
 			],
 			"category": "workshop",
-			"image": "https://ictresearchmethods.nl/images/thumb/9/9e/Decomposition.png/250px-Decomposition.png",
 			"slug": "decomposition",
-			"phase": ["design"]
+			"phases": ["design"]
 		},
 		{
 			"name": "Gap analysis",
@@ -607,9 +569,8 @@
 				"A representation of the design gap."
 			],
 			"category": "workshop",
-			"image": "https://ictresearchmethods.nl/images/thumb/7/7c/Gap_analysis.png/250px-Gap_analysis.png",
 			"slug": "gap-analysis",
-			"phase": ["analysis"]
+			"phases": ["analysis"]
 		},
 		{
 			"name": "IT architecture sketching",
@@ -623,14 +584,13 @@
 				"A camera to photograph the resulting sketch to detail later."
 			],
 			"category": "workshop",
-			"image": "https://ictresearchmethods.nl/images/thumb/9/9e/IT_architecture_sketching.png/250px-IT_architecture_sketching.png",
 			"slug": "it-architecture-sketching",
-			"phase": ["design"]
+			"phases": ["design"]
 		},
 		{
 			"name": "Multi-criteria decision making",
 			"why": "Improve the quality of complex decisions",
-			"how": "Most decision-making models distinguish many phases. In general, you will have a preparation phase to investigate the different alternatives, the criteria and their weight. Also involve the relevant stakeholders. After that, the criteria can be evaluated per option, leading to the favourite option being chosen.",
+			"how": "Most decision-making models distinguish many phasess. In general, you will have a preparation phases to investigate the different alternatives, the criteria and their weight. Also involve the relevant stakeholders. After that, the criteria can be evaluated per option, leading to the favourite option being chosen.",
 			"practice": "Almost all IT projects involve complex decisions. In methods like Scrum and lean, the decisions are postponed as late as possible to have more information for making the right decision or to change a decision if it does not work.",
 			"ingredients": [
 				"Time to iterate between judging options and adjusting criteria.",
@@ -640,9 +600,8 @@
 				"A technique for weighting criteria against options like a ‘decision tree’."
 			],
 			"category": "workshop",
-			"image": "https://ictresearchmethods.nl/images/thumb/1/16/Multi-criteria_decision_making.png/250px-Multi-criteria_decision_making.png",
 			"slug": "multi-criteria-decision-making",
-			"phase": ["design"]
+			"phases": ["design"]
 		},
 		{
 			"name": "Prototyping",
@@ -655,9 +614,8 @@
 				"A clear view of what you would like to learn from your prototype."
 			],
 			"category": "workshop",
-			"image": "https://ictresearchmethods.nl/images/thumb/d/d2/Prototyping.png/250px-Prototyping.png",
 			"slug": "prototyping",
-			"phase": ["design", "prototyping"]
+			"phases": ["design", "prototyping"]
 		},
 		{
 			"name": "Requirements prioritization",
@@ -670,9 +628,8 @@
 				"A way to indicate priorities (e.g. MoSCoW or a backlog)."
 			],
 			"category": "workshop",
-			"image": "https://ictresearchmethods.nl/images/thumb/c/cd/Requirements_prioritization.png/250px-Requirements_prioritization.png",
 			"slug": "requirements-prioritization",
-			"phase": ["analysis"]
+			"phases": ["analysis"]
 		},
 		{
 			"name": "Root cause analysis",
@@ -685,9 +642,8 @@
 				"A diverse group of knowledge holders to help (e.g. security, software, business, user perspective)."
 			],
 			"category": "workshop",
-			"image": "https://ictresearchmethods.nl/images/thumb/7/7b/Root_cause_analysis.png/250px-Root_cause_analysis.png",
 			"slug": "root-cause-analysis",
-			"phase": ["problem definition", "analysis"]
+			"phases": ["problem definition", "analysis"]
 		},
 		{
 			"name": "Joker",
@@ -700,9 +656,8 @@
 				"The willingness to aim for ‘yes, this is it’ instead of ‘yes, this will do’."
 			],
 			"category": "extra",
-			"image": "https://ictresearchmethods.nl/images/thumb/e/ef/Joker.png/250px-Joker.png",
 			"slug": "joker",
-			"phase": [
+			"phases": [
 				"problem definition",
 				"analysis",
 				"design",
